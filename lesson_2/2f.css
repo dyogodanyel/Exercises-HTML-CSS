@@ -1,4 +1,6 @@
-
+.amazon-link{
+    color: blue;
+}
 .product_name{
     font-size: 25px;
     font-weight: bold;   
@@ -26,6 +28,7 @@
     background-color: rgb(236, 236, 72);
     font-size: 13px;
     font-family: Arial;
+    cursor: pointer;
 }
 
 .buy{
@@ -38,4 +41,5 @@
     background-color: rgb(231, 188, 70);
     font-size: 13px;
     font-family: Arial;
+    cursor: pointer;
 }
