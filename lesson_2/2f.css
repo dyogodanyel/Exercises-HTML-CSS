@@ -1,0 +1,41 @@
+
+.product_name{
+    font-size: 25px;
+    font-weight: bold;   
+}
+
+.price{
+    color: rgb(9, 153, 9);
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.delivery{
+    font-size: 17px;
+    font-family: Arial;
+}
+
+.cart{
+    margin-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border-radius: 50px;
+    border-style: none;
+    background-color: rgb(236, 236, 72);
+    font-size: 13px;
+    font-family: Arial;
+}
+
+.buy{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border-radius: 50px;
+    border-style: none;
+    background-color: rgb(231, 188, 70);
+    font-size: 13px;
+    font-family: Arial;
+}
