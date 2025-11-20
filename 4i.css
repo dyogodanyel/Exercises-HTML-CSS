@@ -1,0 +1,15 @@
+.stretch-button{
+    padding: 13px 10px;
+    font-size: 16px;
+    border-radius: 0;
+    border-style: none;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    transition: padding 1s;
+}
+
+.stretch-button:hover{
+    padding: 30px 40px;
+}
