@@ -1,0 +1,48 @@
+.profile{
+    width: 200px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    margin-left: 14px;
+}
+
+p{
+    font-family: Arial;
+    font-size: 15px;
+    margin: 0px 0px;
+}
+
+.profile-picture{
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+
+.facebook-name{
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-bottom: 4px;
+}
+
+.facebook-mutuals{
+    color: gray;
+    margin-top: 4px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+}
+
+.button-add-friend{
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}

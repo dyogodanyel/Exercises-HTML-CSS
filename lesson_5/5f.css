@@ -1,0 +1,27 @@
+p{
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.value{
+    font-size: 25px;
+}
+
+.money-type{
+    font-size: 14px;
+    margin-left: 6px;
+    color: gray;
+}
+
+.percentage{
+    color: green;
+}
+
+.hours{
+    color: gray;
+}
+
+.red{
+    color: red;
+}
