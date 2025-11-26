@@ -1,0 +1,22 @@
+.flex-test{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.item-1{
+    background-color: lightblue;
+}
+
+.item-2{
+    background-color: lightpink;
+}
+
+.item-3{
+    background-color: lightblue;
+}
+
+.item-4{
+    background-color: lightpink;
+}
